@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkurJayant
-- 👀 I’m interested in Stack Development
-- 🌱 I’m currently learning React and Node.js
-- 💞️ I’m looking to collaborate in web developement
+- 👀 I’m interested in Full-Stack Development and scalable web applications
+- 🌱 I’m currently learning Kubernetes and container orchestration
+- 💞️ I’m looking to collaborate on Javascript, TypeScript, React Native, and Node.js projects
 - 📫 How to reach me: ankurjayant12@gmail.com
 
 <!---
